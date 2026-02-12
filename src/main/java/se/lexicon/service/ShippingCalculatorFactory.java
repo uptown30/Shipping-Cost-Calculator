@@ -3,7 +3,7 @@ package se.lexicon.service;
 import se.lexicon.model.ShippingRequest;
 
 import java.util.List;
-
+@conp
 public class ShippingCalculatorFactory {
 
     private final List<ShippingCostCalculator> calculators;
